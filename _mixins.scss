@@ -1,0 +1,15 @@
+@mixin princpalbutton {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold; 
+    color: #10283A;
+    
+}
+
+@mixin princpaltittle {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #CAEEEE;
+    line-height: inherit;
+}
